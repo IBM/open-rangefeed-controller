@@ -1,0 +1,32 @@
+.body > .row {
+  margin-top: 25px;
+}
+
+.body > .row > .title {
+  text-transform: uppercase;
+  font-weight: 300;
+  font-size: 14px;
+  margin-left: 20px;
+}
+
+.body > .row > .inner {
+  display: flex;
+  margin-top: 5px;
+}
+
+.body > .row > .inner > .left {
+  background-color: #2E2E2E;
+  flex: 3;
+  border-radius: 20px;
+  display: flex;
+  align-items: center;
+}
+
+.body > .row > .inner > .right {
+  flex: 1;
+  font-weight: 300;
+  display: flex;
+  padding: 25px;
+  padding-right: 0;
+  align-items: flex-start;
+}

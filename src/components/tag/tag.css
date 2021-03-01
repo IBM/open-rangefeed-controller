@@ -1,0 +1,9 @@
+.tag {
+  background-color: #539EED;
+  border-radius: 20px;
+  height: 30px;
+  display: flex;
+  align-items: center;
+  align-content: center;
+  flex-direction: row;
+}
