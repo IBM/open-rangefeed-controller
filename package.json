@@ -1,5 +1,5 @@
 {
-  "name": "admin",
+  "name": "open-rangefeed-controller",
   "version": "1.0.0",
   "private": true,
   "dependencies": {
